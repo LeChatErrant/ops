@@ -4,7 +4,7 @@
 
 
 ### ABANDONED - This project is currently stopped and unmaintained
-### For a more up to date kubernetes architecture, you can use [LeChatErrant/devops_template](https://github.com/LeChatErrant/devops_template)
+### For a more up to date kubernetes architecture, you can use [LeChatErrant/devops-template](https://github.com/LeChatErrant/devops-template)
 
 
 ## Why Ops?
