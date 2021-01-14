@@ -3,6 +3,8 @@
 > The generic distributed Cloud-computing platform
 
 
+### ABANDONED - This project is currently stopped and unmaintained
+
 
 ## Why Ops?
 
